@@ -7,7 +7,8 @@
 - 个人简介：**让灵魂活着** / Motto: **Let the soul live**
 
 ## 📝 我的博客 / My Blog
-- [Blog 仓库 / Blog Repository](https://github.com/Pfolg/Blog)  
+- [Blog 仓库 / Blog Repository](https://github.com/Pfolg/PfolgBlog
+)  
   记录学习与思考，欢迎访问！ / Sharing my learning and thoughts—welcome!
 
 ## 💡 项目与收藏 / Projects & Stars
