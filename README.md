@@ -21,7 +21,9 @@
 
 ## 📊 GitHub 活跃度 / GitHub Activity
 
-[![Pfolg's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pfolg&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pfolg&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pfolg)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Pfolg's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pfolg&theme=github-compact)
 
