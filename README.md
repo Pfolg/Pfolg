@@ -2,7 +2,7 @@
 
 ## 🎓 关于我 / About Me
 - 学生 / Student
-- 擅长 Python，略懂 Fortran、C#、Dart，掌握前端基础 / Skilled in Python, familiar with Fortran, C++, and basic frontend development
+- 擅长 Python，略懂 Fortran、C#、Dart，掌握前端基础 / Skilled in Python, familiar with Fortran, C#、Dart, and basic frontend development
 - 目前使用 PySide6 (Qt) 开发一些小程序 / Currently developing small apps with PySide6 (Qt)
 - 个人简介：**让灵魂活着** / Motto: **Let the soul live**
 - 我不是大佬，会的东西都只是略懂，这是真的。/ I'm not a guru—all I know is just a little, and that's the truth.
