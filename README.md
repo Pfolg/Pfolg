@@ -8,7 +8,7 @@
 - I'm not a guru—all I know is just a little, and that's the truth.
 
 ## 📘 My Blog
-- [Blog 仓库 / Blog Repository](https://github.com/Pfolg/PfolgBlog)  
+- [Blog Repository](https://github.com/Pfolg/PfolgBlog)  
   Sharing my learning and thoughts—welcome!
 
 ## ✨ Projects & Stars
