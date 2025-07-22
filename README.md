@@ -1,29 +1,30 @@
-# Hi there, welcome to Pfolg's GitHub!
+# 👋 Hi there, welcome to Pfolg's GitHub!
 
-## About Me
+## 🤓 About Me
 - Student
-- Skilled in Python, familiar with Fortran, C#、Dart, and basic frontend development
+- Skilled in Python, familiar with Fortran, C#、~~Dart~~, and basic frontend development
 - Currently developing small apps with PySide6 (Qt)
+- Studying C++
 - I'm not a guru—all I know is just a little, and that's the truth.
 
-## My Blog
+## 📘 My Blog
 - [Blog 仓库 / Blog Repository](https://github.com/Pfolg/PfolgBlog)  
   Sharing my learning and thoughts—welcome!
 
-## Projects & Stars
+## ✨ Projects & Stars
 + Curious about my favorite projects? Check out my [Starred repos](https://github.com/Pfolg?tab=stars).
 
-## Hobbies
+## ♟️ Hobbies
 - Playing Genshin Impact & other ACG games
 - Watching anime
 - Occasionally tinkering with tech stuff
 - Sometimes browsing comments and helping out with questions I might know
 
-## Social Links
+## 🌐 Social Links
 - Bilibili: [https://space.bilibili.com/515553532](https://space.bilibili.com/515553532)
 - Steam: [https://steamcommunity.com/profiles/76561199677607305/](https://steamcommunity.com/profiles/76561199677607305/)
 
-## GitHub Activity
+## 📅 GitHub Activity
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pfolg)](https://github.com/anuraghazra/github-readme-stats)
 
