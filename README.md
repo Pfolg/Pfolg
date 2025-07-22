@@ -33,9 +33,9 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pfolg&layout=donut&langs_count=8&card_width=320&border_radius=10&theme=transparent" />
 </a>
 
+---
 
 ![Pfolg's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pfolg&theme=github-compact)
 
 ---
-
 _Feel free to connect and collaborate!_
