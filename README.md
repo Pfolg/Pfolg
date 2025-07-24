@@ -18,8 +18,8 @@
 - Creating something
 
 ## 🌐 Social Links
-- Bilibili: [https://space.bilibili.com/515553532](https://space.bilibili.com/515553532)
-- Steam: [https://steamcommunity.com/profiles/76561199677607305/](https://steamcommunity.com/profiles/76561199677607305/)
+- [Bilibili](https://space.bilibili.com/515553532)
+- [Steam](https://steamcommunity.com/profiles/76561199677607305/)
 
 ## 📅 GitHub Activity
 
