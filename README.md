@@ -15,6 +15,14 @@
   - Playing games
   - Creating something 
 
+<div align="center">
+
+
+
+_The world might be better off without me — and yet I'll keep on living._
+
+</div>
+
 ---
 
 <a href="https://github.com/Pfolg/github-readme-stats">
