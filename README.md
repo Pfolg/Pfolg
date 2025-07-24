@@ -4,7 +4,7 @@
 
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Pfolg.Pfolg" /> -->
 
-[Bilibili](https://space.bilibili.com/515553532) | [Steam](https://steamcommunity.com/profiles/76561199677607305/) | [Blog](https://github.com/Pfolg/PfolgBlog)
+[Bilibili](https://space.bilibili.com/515553532) | [Steam](https://steamcommunity.com/profiles/76561199677607305/) | [Blog](https://pfolg.top/)
 
 </div>
 
