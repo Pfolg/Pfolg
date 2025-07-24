@@ -18,10 +18,10 @@
 ---
 
 <a href="https://github.com/Pfolg/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pfolg&show_icons=true&border_radius=10&theme=transparent&rank_icon=percentile" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Pfolg&show_icons=true&border_radius=10&theme=github_dark&rank_icon=percentile" />
 </a>
 <a href="https://github.com/Pfolg/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pfolg&layout=compact&langs_count=8&card_width=320&border_radius=10&theme=transparent" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pfolg&layout=compact&langs_count=8&card_width=320&border_radius=10&theme=github_dark" />
 </a>
 
 ---
