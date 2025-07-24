@@ -1,17 +1,19 @@
 # Hello World
 
+<div align="center">
+
+<!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Pfolg.Pfolg" /> -->
+
+[Bilibili](https://space.bilibili.com/515553532) | [Steam](https://steamcommunity.com/profiles/76561199677607305/) | [Blog](https://github.com/Pfolg/PfolgBlog)
+
+</div>
+
 - Student
 - Skilled in Python, familiar with Fortran, C#、~~Dart~~, Live2D, and basic frontend development
 - Studying C++
 - Hobbies
   - Playing games
   - Creating something 
-
-<div align="center">
-
-[Bilibili](https://space.bilibili.com/515553532) | [Steam](https://steamcommunity.com/profiles/76561199677607305/) | [Blog](https://github.com/Pfolg/PfolgBlog)
-
-</div>
 
 ---
 
