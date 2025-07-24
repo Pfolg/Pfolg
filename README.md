@@ -9,7 +9,7 @@
 </div>
 
 - Student
-- Skilled in Python, familiar with Fortran, C#、~~Dart~~, Live2D, and basic frontend development
+- Skilled in Python, familiar with Fortran, C#, ~~Dart~~, Live2D, and basic frontend development
 - Studying C++
 - Hobbies
   - Playing games
