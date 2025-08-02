@@ -8,9 +8,9 @@
 
 </div>
 
-- Student
-- Skilled in Python, familiar with Fortran, C#, ~~Dart~~, Live2D, and basic frontend development
-- Studying C++
+- In SiChuan, PRC. Student
+- Skilled in Python, Master a little Fortran, C#, ~~Dart~~,  Live2D, Linux and basic frontend development
+- Now studying C++
 - Hobbies
   - Playing games
   - Creating something 
