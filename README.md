@@ -4,7 +4,7 @@
 
 <!-- <img src="https://visitor-badge.laobi.icu/badge?page_id=Pfolg.Pfolg" /> -->
 
-[Bilibili](https://space.bilibili.com/515553532) | [Steam](https://steamcommunity.com/profiles/76561199677607305/) | [Blog](https://pfolg.top/)
+[Bilibili](https://space.bilibili.com/515553532) | [Steam](https://steamcommunity.com/profiles/76561199677607305/) | [Blog](https://fuwari-cu5.pages.dev/)
 
 </div>
 
@@ -17,9 +17,16 @@
 
 <div align="center">
 
-<img height=300 width=300 src="/assets/living.jpg" />
+<!-- <img height=300 width=300 src="/assets/living.jpg" />
 
 _The world might be better off without me — and yet I'll keep on living._
+-->
+
+$$
+\boxed{0001}
+$$
+
+_于二进制潮汐涨落之间求索……_
 
 </div>
 
