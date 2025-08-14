@@ -17,7 +17,7 @@
 
 <div>
   <!--https://www.vectorlogo.zone/-->
-<img height=30 width=30 src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />&nbsp;
+<img height=30 width=30 alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />&nbsp;
 <img height=30 width=30 src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" />&nbsp;
 <img height=30 width=30 src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/csharp.svg" />&nbsp;
 <img height=30 width=30 src="https://github.com/uiwjs/file-icons/blob/master/icon/dart.svg" />&nbsp;
@@ -31,7 +31,6 @@
 <img height=30 width=60 src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" />
 <img height=30 width=70 src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" />&nbsp;
 <img height=30 width=30 src="https://github.com/uiwjs/file-icons/blob/master/icon/autohotkey.svg" />&nbsp;
-<br>
 <img height=30 width=50 src="https://github.com/shgysk8zer0/logos/blob/master/markdown.svg" />&nbsp;
 <br>
 <img height=30 width=30 src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/vscode.svg" />&nbsp;
