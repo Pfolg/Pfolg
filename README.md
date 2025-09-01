@@ -40,7 +40,6 @@
 <img height=30 width=30 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />&nbsp;
 <img height=30 width=30 src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />&nbsp;
 <img height=30 width=30 src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_innosetup.svg" />&nbsp;
-
   -->
 
 <!--
