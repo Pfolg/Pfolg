@@ -15,38 +15,11 @@
   - Playing games
   - Creating something 
 
-<!--
-<div>
-  <!--https://www.vectorlogo.zone/-->
-<img height=30 width=30 alt="Python" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />&nbsp;
-<img height=30 width=30 src="https://github.com/gilbarbara/logos/blob/main/logos/fortran.svg" />&nbsp;
-<img height=30 width=30 src="https://github.com/loganmarchione/homelab-svg-assets/blob/main/assets/csharp.svg" />&nbsp;
-<img height=30 width=30 src="https://github.com/uiwjs/file-icons/blob/master/icon/dart.svg" />&nbsp;
-<img height=30 width=120 src="https://upload.wikimedia.org/wikipedia/commons/2/29/Live2D_logo.svg" />&nbsp; <!--Live2D Co., Ltd., Public domain, via Wikimedia Commons-->
-<img height=30 width=60 src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21~alt.svg" />&nbsp;
-<img height=30 width=60 src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" />&nbsp;
-<img height=30 width=30 src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" />&nbsp;
-<img height=30 width=60 src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />&nbsp;
-<img height=30 width=30 src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />&nbsp;
-<img height=30 width=30 src="https://github.com/devicons/devicon/blob/master/icons/renpy/renpy-original.svg" />
-<img height=30 width=60 src="https://www.vectorlogo.zone/logos/qtio/qtio-ar21.svg" />
-<img height=30 width=70 src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" />&nbsp;
-<img height=30 width=30 src="https://github.com/uiwjs/file-icons/blob/master/icon/autohotkey.svg" />&nbsp;
-<img height=30 width=50 src="https://github.com/shgysk8zer0/logos/blob/master/markdown.svg" />&nbsp;
-<br>
-<img height=30 width=30 src="https://github.com/bestofjs/bestofjs/blob/master/apps/web/public/logos/vscode.svg" />&nbsp;
-<img height=30 width=30 src="https://github.com/gilbarbara/logos/blob/main/logos/pycharm.svg" />&nbsp;
-<img height=30 width=30 src="https://github.com/pheralb/svgl/blob/main/static/library/visual-studio.svg" />&nbsp;
-<img height=30 width=30 src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />&nbsp;
-<img height=30 width=30 src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />&nbsp;
-<img height=30 width=30 src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_innosetup.svg" />&nbsp;
-  -->
 
 <!--
   <img height=30 width=30 src="" />&nbsp;
   -->
 
-</div>
 
 ---
 
