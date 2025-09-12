@@ -9,7 +9,7 @@
 </div>
 
 - In SiChuan, PRC. Student
-- Skilled in Python, Master a little Fortran, C#, ~~Dart~~,  Live2D, Linux and basic frontend development
+- Skilled in Python, Master a little C++, Fortran, C#, ~~Dart~~,  Live2D, Linux and basic frontend development
 - Hobbies
   - Playing games
   - Creating something 
