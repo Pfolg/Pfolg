@@ -10,7 +10,6 @@
 
 - In SiChuan, PRC. Student
 - Skilled in Python, Master a little Fortran, C#, ~~Dart~~,  Live2D, Linux and basic frontend development
-- Now studying C++
 - Hobbies
   - Playing games
   - Creating something 
